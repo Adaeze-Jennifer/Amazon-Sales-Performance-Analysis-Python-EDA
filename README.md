@@ -1,7 +1,7 @@
 ## Amazon Sales and Performance Analysis Report
 This analysis explored 50,000 Amazon sales transactions spanning January 2022 to November  2023, covering six product categories across four global regions. The dataset included pricing,  discounts, quantity sold, and total revenue. Key metrics, trends, and relationships were examined  to surface actionable business insights. 
 
-##➢KEY TRENDS DISCOVERED
+➢KEY TRENDS DISCOVERED
 1. Overall Performance: 
 The business generated a total revenue of $32,866,573.74 across 149,970 units sold — 
 establishing a strong top-line performance baseline across the analysis period.
@@ -39,7 +39,7 @@ relationship. While higher quantities sold generally correspond with higher reve
 moderate score confirms that price per unit and discount levels also significantly influence 
 revenue outcomes.
 
-##➢ BUSINESS IMPLICATIONS
+➢ BUSINESS IMPLICATIONS
 Diversification is a strength but also a risk. The near-equal performance across all categories 
 and regions means no single segment can be relied upon as a growth engine. The business needs 
 a deliberate strategy to identify and accelerate its highest-potential segment. 
