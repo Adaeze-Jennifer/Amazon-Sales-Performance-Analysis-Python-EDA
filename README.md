@@ -19,8 +19,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on Amazon sal
 
 ## 📚Dataset Description
 - **Source:** Amazon sales dataset containing order-level 50,000 transaction data.
-- **Columns:** Category, Price, Disounted Price, Quantity Sold, Total Revenue, Year, etc
-- **Notes:** Total Revenue and Total Sales were used interchageably across 
+- **Columns:** Product Category, Price, Disounted Price, Quantity Sold, Customer Region, Total Revenue, Order Date, etc 
 
 ## 🛠Tools & Technologies Used
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
@@ -87,3 +86,6 @@ revenue growth than simply pushing for more units sold.
 - Europe and Asia are growth opportunities. Both regions trail the Middle East and North 
 America by a narrow margin. Targeted regional campaigns could close this gap and meaningfully 
 lift overall revenue.
+
+## File Structure 
+- 'Amazon-Sales-Performance-Analysis-Python' - Main Python notebook with the analysis.
