@@ -18,50 +18,49 @@ This project focuses on performing Exploratory Data Analysis (EDA) on Amazon sal
 - What relationships exist between sales and quantity?
 
 ## 🧹Data Cleaning Steps
-- Handled missing and incorrect values
-- Removed duplicates
+- Handled missing and incorrect values before importing into pandas.
 - Converted date columns to appropriate formats for analysis
-- Ensured correct data types across all columns.
+- Ensured correct data types across all 13 columns.
 
-➢KEY TRENDS DISCOVERED
-1. Overall Performance: 
+## 📈KEY TRENDS DISCOVERED
+### 1. Overall Performance: 
 The business generated a total revenue of $32,866,573.74 across 149,970 units sold — 
 establishing a strong top-line performance baseline across the analysis period.
  
-2. Sales Trend Over Time: 
+### 2. Sales Trend Over Time: 
 Monthly revenue fluctuated between $1.27M and $1.45M with no consistent upward or 
 downward trajectory. A significant peak occurred in January 2023, followed by the sharpest dip 
 in February 2023. Sales recovered through mid-2023, then declined again toward year-end. The 
 irregular pattern suggests revenue is driven by seasonal demand or promotional activity rather 
 than steady organic growth.
 
-3. Category Performance:🛠🔍📸💻📉📈
+### 3. Category Performance:🛠🔍📸💻📉
 All six product categories performed within a narrow revenue band. Beauty led with $5,550,625, 
 followed by Books ($5,484,863), Fashion ($5,480,123), Home & Kitchen ($5,473,133), 
 Electronics ($5,470,594), and Sports at the bottom with $5,407,236. The gap between the highest 
 and lowest categories is only $143,000 — indicating a well-diversified, balanced product 
 portfolio with no single dominant category.
 
-4. Regional Performance:
+### 4. Regional Performance:
 The Middle East is the top-performing region with approximately $8.30M in revenue, followed 
 by North America ($8.28M), Asia ($8.18M), and Europe (~$8.11M). The revenue gap across all 
 four regions is approximately $189,500 — reflecting a globally balanced customer base with no 
 single region dominating sales.
 
-5. Customer Purchasing Behaviour: 
+### 5. Customer Purchasing Behaviour: 
 Order quantities are distributed almost perfectly evenly across all five levels — 1 qty (20.1%, 
 10,060 orders), 2 qtys (19.8%, 9,914 orders), 3 qtys (20.1%, 10,026 orders), 4 qtys (20.0%, 9,996 
 orders), and 5 qtys (20.0%, 10,004 orders). Customers show no tendency toward bulk or single
 unit purchasing, suggesting that quantity decisions are driven by individual product need or 
 pricing rather than a consistent buying habit.
 
-6. Relationship Analysis:
+### 6. Relationship Analysis:
 The correlation between total revenue and quantity sold is 0.59.  A moderate positive 
 relationship. While higher quantities sold generally correspond with higher revenue, the 
 moderate score confirms that price per unit and discount levels also significantly influence 
 revenue outcomes.
 
-➢ BUSINESS IMPLICATIONS
+## BUSINESS IMPLICATIONS
 Diversification is a strength but also a risk. The near-equal performance across all categories 
 and regions means no single segment can be relied upon as a growth engine. The business needs 
 a deliberate strategy to identify and accelerate its highest-potential segment. 
