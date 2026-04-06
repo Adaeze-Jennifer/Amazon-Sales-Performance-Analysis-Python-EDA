@@ -87,6 +87,6 @@ revenue growth than simply pushing for more units sold.
 America by a narrow margin. Targeted regional campaigns could close this gap and meaningfully 
 lift overall revenue.
 
-## File Structure 
-- [AMAZON SALES PERFORMANCE ANALYSIS](Amazon-Sales-Performance-Analysis) - Main Python notebook with the analysis.
+## Project Notebook 
+- [View Amazon Sales Analysis Notebook](https://github.com/Adaeze-Jennifer/Amazon-Sales-Performance-Analysis/blob/main/AMAZON%20SALES%20PERFORMANCE%20-%20PYTHON.ipynb) - Main Python notebook with the analysis.
 - [README.md](README.md) - Project Overview and Documentation
