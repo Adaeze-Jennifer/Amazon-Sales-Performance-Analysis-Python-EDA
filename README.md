@@ -1,5 +1,5 @@
 # 📊Amazon Sales Performance Analysis Report
-This project analyses over 50,000 Amazon sales transactions spanning January 2022 to November  2023, covering six product categories across four global regions. The dataset includes pricing,  discounts, quantity sold, and total revenue with the objective of uncovering actionable business insights and performance trends.
+This project analyses over 50,000 Amazon sales transactions spanning January 2022 to November  2023, covering six product categories across four global regions. The dataset includes pricing,  discounts, quantity sold, and total revenue. Key metrics, trend, and relationships were also analysed with the objective of uncovering actionable business insights and performance trends.
 
 ## 🔍Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on Amazon sales data using Python. The analysis identifies key patterns in sales performance, revenue distribution, and customer behaviour, with insights communicated through clear and effective data visualisations.
