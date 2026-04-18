@@ -43,7 +43,7 @@ in February 2023. Sales recovered through mid-2023, then declined again toward y
 irregular pattern suggests revenue is driven by seasonal demand or promotional activity rather 
 than steady organic growth.
 
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](images/01_sales_trend.png)
 
 ### 3. Category Performance:
 All six product categories performed within a narrow revenue band. Beauty led with $5,550,625, 
@@ -52,7 +52,7 @@ Electronics ($5,470,594), and Sports at the bottom with $5,407,236. The gap betw
 and lowest categories is only $143,000 indicating a well-diversified, balanced product 
 portfolio with no single dominant category.
 
-![Product Category](images/product_category_performance.png)
+![Product Category](images/02_product_category_performance.png)
 
 ### 4. Regional Performance:
 The Middle East is the top-performing region with approximately $8.30M in revenue, followed 
@@ -60,7 +60,7 @@ by North America ($8.28M), Asia ($8.18M), and Europe (~$8.11M). The revenue gap 
 four regions is approximately $189,500 reflecting a globally balanced customer base with no 
 single region dominating sales.
 
-![Regional Performance](images/regional_performance.png)
+![Regional Performance](03_images/regional_performance.png)
 
 ### 5. Customer Purchasing Behaviour: 
 Order quantities are distributed almost perfectly even across all five levels — 1 qty (20.1%, 
@@ -69,7 +69,7 @@ orders), and 5 qtys (20.0%, 10,004 orders). Customers show no tendency toward bu
 unit purchasing, suggesting that quantity decisions are driven by individual product need or 
 pricing rather than a consistent buying habit.
 
-![Customer Purchasing Behaviour](images/customer_purchasing_behaviour.png)
+![Customer Purchasing Behaviour](04_images/customer_purchasing_behaviour.png)
 
 ### 6. Relationship Analysis:
 The correlation between total revenue and quantity sold is 0.59.  A moderate positive 
@@ -77,7 +77,7 @@ relationship. While higher quantities sold generally correspond with higher reve
 moderate score confirms that price per unit and discount levels also significantly influence 
 revenue outcomes.
 
-![Correlation Analysis](images/correlation_analysis.png)
+![Correlation Analysis](05_images/correlation_analysis.png)
 
 ## 💡Insights & Recommendations
 - Diversification is a strength but also a risk. The near-equal performance across all categories 
