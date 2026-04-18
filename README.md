@@ -52,7 +52,7 @@ Electronics ($5,470,594), and Sports at the bottom with $5,407,236. The gap betw
 and lowest categories is only $143,000 indicating a well-diversified, balanced product 
 portfolio with no single dominant category.
 
-![Category](images/product_category_performance.png)
+![Product Category](images/product_category_performance.png)
 
 ### 4. Regional Performance:
 The Middle East is the top-performing region with approximately $8.30M in revenue, followed 
